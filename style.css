@@ -218,3 +218,14 @@ footer {
     padding: 1px 2px; /* Adjust the padding for button size */
     /* You can also adjust height or width if needed */
 }
+
+.old-price {
+    text-decoration: line-through;
+    color: red;
+    margin-right: 10px;
+}
+
+.new-price {
+    font-weight: bold;
+    color: green;
+}
